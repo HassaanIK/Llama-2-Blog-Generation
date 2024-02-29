@@ -27,7 +27,7 @@ This project utilizes the Llama 2 open-source model for blog generation. Llama 2
    [Link](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/resolve/main/llama-2-7b-chat.ggmlv3.q8_0.bin?download=true)
    
 ### Usage
-1.Enter the blog topic in the provided input field.
-2.Specify the number of words for the blog.
-3.Choose the target audience (e.g., Researchers, Data Scientist, Common People).
-4.Click the "Generate" button to obtain the dynamically generated blog.
+1. Enter the blog topic in the provided input field.
+2. Specify the number of words for the blog.
+3. Choose the target audience (e.g., Researchers, Data Scientist, Common People).
+4. Click the "Generate" button to obtain the dynamically generated blog.
